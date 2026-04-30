@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm ci --force",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
